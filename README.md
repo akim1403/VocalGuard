@@ -65,10 +65,10 @@ Press `Ctrl + C` to stop the script gracefully and view the final scam word coun
 
 ## 🛠️ Future Improvements
 
-- Add a GUI dashboard to show detected scam phrases
-- Save flagged phrases to a file or database
-- Add support for multiple languages
-- Integrate voice activity detection (VAD) for smarter audio capture
+- Process audio locally using Vosk
+- Create a REST API where it receives the Audio data and proccesses it locally using Vosk
+- That way audio can be sent from different applications such as android, IOS and PC
+- Will create a react native application that can listen to the Phone's call and sends the audio data to my Python server to proccess
 
 ## 📄 License
 
