@@ -1,6 +1,7 @@
 # Real-Time Scam Word Detection using Speech Recognition
 
 This Python project listens to live microphone input, transcribes the speech using Google's Speech Recognition API, and detects scam-related words in real-time using multiple threads.
+This project was developed by me with the assistance of AI tools.
 
 Example video of this program can be found on
 https://youtu.be/tt9Rog0o_VU
