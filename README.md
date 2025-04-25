@@ -2,6 +2,9 @@
 
 This Python project listens to live microphone input, transcribes the speech using Google's Speech Recognition API, and detects scam-related words in real-time using multiple threads.
 
+Example video of this program can be found on
+https://youtu.be/tt9Rog0o_VU
+
 ## 🚀 Features
 
 - ✅ **Real-time speech recognition** using your microphone
@@ -69,9 +72,3 @@ Press `Ctrl + C` to stop the script gracefully and view the final scam word coun
 - Create a REST API where it receives the Audio data and proccesses it locally using Vosk
 - That way audio can be sent from different applications such as android, IOS and PC
 - Will create a react native application that can listen to the Phone's call and sends the audio data to my Python server to proccess
-
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
-
----
